@@ -14,3 +14,9 @@
 .deaths {
   border-left: 9px solid rgba(255, 0, 0, .5);
 }
+
+@media screen and (max-width: 790px) {
+  .card {
+    width: 150px;
+  }
+}
