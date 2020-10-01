@@ -1,3 +1,7 @@
+
+URL for the website: https://mostafa54225.github.io/COVID-19-Tracker/.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
